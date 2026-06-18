@@ -2,13 +2,11 @@ package lab.exercises.algo;
 
 public enum Exo6Imc {
     public static void main(String[] args) {
-        double poids = 75.5;
-        double taille = 1.75;
-        
-        // Calcule l'IMC ici (Formule : poids / (taille * taille))
+        int nombre = 7;
+
         // À TOI DE JOUER :
-        double imc = 0.0;
+        // Affiche la table de multiplication de 7 de 1 à 10.
+        // Résultat attendu : "7 x 1 = 7", "7 x 2 = 14", etc.
         
-        System.out.println("Votre IMC est de : " + imc);
     }
 }
