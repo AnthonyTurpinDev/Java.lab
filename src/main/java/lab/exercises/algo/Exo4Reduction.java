@@ -1,5 +1,3 @@
-package lab.exercises.algo;
-
 public class Exo4Reduction {
     public static void main(String[] args) {
         int age = 67;
@@ -8,6 +6,10 @@ public class Exo4Reduction {
         // À TOI DE JOUER :
         // On a droit à une réduction de prix SI on a moins de 26 ans OU si on a plus de 65 ans OU si on est étudiant.
         // Affiche "Tarif réduit !" ou "Plein tarif".
-        
+        if (age <= 26 && age <= 65 && estEtudiant == true) {
+             System.out.println("Tarif réduit !" );
+        } else {
+            System.out.println("Plein tarif");
+        }
     }
 }

@@ -1,6 +1,3 @@
-package lab.exercises.algo;
-
-
 public class Exo1IfSimple {
 
     public static void main(String[] args) {
@@ -9,6 +6,12 @@ public class Exo1IfSimple {
         // À TOI DE JOUER :
         // Si l'âge est supérieur ou égal à 18, affiche "Majeur".
         // Sinon, affiche "Mineur".
+        if ( age >= 18) {
+            System.out.println("Majeur");
+        } else {
+            System.out.println("Mineur");
+        }
+
         
     }
 }

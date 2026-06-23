@@ -1,5 +1,3 @@
-package lab.exercises.algo;
-
 public enum Exo6Imc {
     public static void main(String[] args) {
         int nombre = 7;

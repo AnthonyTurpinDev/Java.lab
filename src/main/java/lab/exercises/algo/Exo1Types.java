@@ -1,4 +1,4 @@
-package lab.exercises.algo;
+
 
 public class Exo1Types {
     public static void main(String[] args) {
