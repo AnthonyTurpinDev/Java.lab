@@ -1,5 +1,3 @@
-package lab.exercises.algo;
-
 import java.util.Scanner;
 
 public class Exo9DoWhile {
@@ -14,7 +12,7 @@ public class Exo9DoWhile {
         do {
             System.out.print("Entrez le code secret : ");
             codeSaisi = scanner.nextInt();
-        } while (false); // Modifie la condition ici !
+        } while (codeSaisi != codeCorrect);  // Modifie la condition ici !
 
         System.out.println("Code correct ! Accès autorisé.");
     }
