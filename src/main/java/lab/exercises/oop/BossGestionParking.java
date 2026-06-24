@@ -1,5 +1,3 @@
-package lab.exercises.oop;
-
 public class BossGestionParking {
     import java.util.ArrayList;
 
