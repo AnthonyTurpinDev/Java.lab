@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class Exo9_AccesSite {
+public class Exo9C_AccesSite {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Ton âge : ");

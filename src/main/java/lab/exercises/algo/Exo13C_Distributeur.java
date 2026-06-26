@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class Exo13_Distributeur {
+public class Exo13C_Distributeur {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

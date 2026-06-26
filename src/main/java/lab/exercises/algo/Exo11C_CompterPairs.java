@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Exo11_CompterPairs {
+public class Exo11C_CompterPairs {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Entre N : ");

@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Exo3_Majorite {
+public class Exo3C_Majorite {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Quel est ton âge ? ");

@@ -6,7 +6,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class Exo15_PierreFeuilleCiseaux {
+public class Exo15C_PierreFeuilleCiseaux {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random rng = new Random();

@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class Exo14_Login {
+public class Exo14C_Login {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         final String USER = "admin";

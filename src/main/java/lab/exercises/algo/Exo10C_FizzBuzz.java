@@ -5,7 +5,7 @@
 //          Multiple des deux → "FizzBuzz"
 //          Sinon → le nombre.
 
-public class Exo10_FizzBuzz {
+public class Exo10C_FizzBuzz {
     public static void main(String[] args) {
         for (int i = 1; i <= 100; i++) {
             if (i % 15 == 0) {

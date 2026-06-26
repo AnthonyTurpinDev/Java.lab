@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class Exo6_TicketCinema {
+public class Exo6C_TicketCinema {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Ton âge : ");

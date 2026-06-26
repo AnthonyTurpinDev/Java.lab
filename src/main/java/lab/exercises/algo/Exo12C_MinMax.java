@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Exo12_MinMax {
+public class Exo12C_MinMax {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nombre 1 : ");

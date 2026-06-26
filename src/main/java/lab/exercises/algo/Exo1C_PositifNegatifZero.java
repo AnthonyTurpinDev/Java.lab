@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Exo1_PositifNegatifZero {
+public class Exo1C_PositifNegatifZero {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Entre un entier : ");

@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Exo7_JourSemaine {
+public class Exo7C_JourSemaine {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Numéro du jour (1=Lundi ... 7=Dimanche) : ");

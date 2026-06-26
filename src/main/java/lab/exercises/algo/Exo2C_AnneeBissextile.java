@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class Exo2_AnneeBissextile {
+public class Exo2C_AnneeBissextile {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Année : ");

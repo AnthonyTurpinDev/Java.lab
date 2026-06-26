@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class Exo4_Mention {
+public class Exo4C_Mention {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Entre ta note (0-20) : ");

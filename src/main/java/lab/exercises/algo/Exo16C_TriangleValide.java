@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class Exo16_TriangleValide {
+public class Exo16C_TriangleValide {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Côté a : "); int a = sc.nextInt();

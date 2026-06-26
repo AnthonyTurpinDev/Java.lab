@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Exo5_Saison {
+public class Exo5C_Saison {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Numéro de mois (1-12) : ");

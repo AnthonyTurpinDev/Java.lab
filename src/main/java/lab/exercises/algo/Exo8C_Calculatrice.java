@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Exo8_Calculatrice {
+public class Exo8C_Calculatrice {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Premier nombre : ");
